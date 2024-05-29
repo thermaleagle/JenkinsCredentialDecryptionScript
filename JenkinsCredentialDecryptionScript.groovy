@@ -1,4 +1,4 @@
-// Run this by pasting the content of this file within your Jenkins Script Console which you cn do only if you are a Jenkins admin.
+// Run this by pasting the content of this file within your Jenkins Script Console which you can do only if you are a Jenkins admin.
 // Replace "your-credential-id" with the ID of the credential you want to decrypt. This ID must be present on the Jenkins instance where you are executing this script.
 
 import jenkins.model.Jenkins
